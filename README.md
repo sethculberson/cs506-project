@@ -2,7 +2,7 @@
 Authors: Amanda Atlas, Owen Lennox, Seth Culberson
 
 ## Description
-Major sporting events at high capacity arenas in Boston (TD Garden for the Bruins and Celtics, Fenway Park for the Red Sox) cause significant spikes and congestion in transit use. Game days can create unpredictable demand in ridership, which leads to delays, overcrowding, and increased travel times. 
+Major sporting events at high capacity arenas in Boston (TD Garden for the Bruins and Celtics, Fenway Park for the Red Sox) cause significant spikes and congestion in transit use. Game days can create unpredictable demand in ridership, which leads to delays, overcrowding, and increased travel times. If our plan of evaluating both the full effect of games on the MBTA and bluebikes, we can scale our idea down to only look at data on the MBTA's green line, which serves riders at both TD Garden and Fenway Park and should still yield meaningful results.
 
 ## Timeline
 | Weeks | Task | Milestone |
