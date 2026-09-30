@@ -16,13 +16,14 @@ Major sporting events at high capacity arenas in Boston (TD Garden for the Bruin
 Our project goals are to identify transit stations and areas most affected by sporting events in Boston and estimate delays and demand for Boston public transit (MBTA)/bluebikes caused by game day congestion. 
 
 ## Data Collection
-Just links for now, need to add more here
+We will collect data from four sources. The first  dataset is called City of Boston's streets hourly bike count, which record hourly counts of bikes, cars, buses, and trucks on streets around the city. We can download this as a CSV and filter to only include days that coincide with games in Boston. The MBTA ridership and performance data sets contains performance and passenger usage data hourly for busses, trains, ferries, and the commuter rail. We can use this for  demand and traffic data on game days, and cam be downloaded as a csv. The weather data set will allow us to consider weather which may impact service and passenger demand, and can be downloaded as a CSV. Finally, Red Sox, Bruins, and Celtics home game schedule with date and start time, will be collected by scraping Ticketmaster or live Nation to label each day as a game day. 
+
 * [Boston Open Data Sets](https://bostonopendata-boston.opendata.arcgis.com/search?collection=dataset)
 * [MBTA Data Sets](https://mbta-massdot.opendata.arcgis.com)
 * [Weather](https://www.weather.gov/wrh/climate?wfo=box)
 
 ## Data Modeling
-Density-Based Clustering: We are thinking this approach because transit lines are not circular and this accounts for that. We predict that core points will be closer to sporting venues. TBD on how we will estimate delays.
+Density-Based Clustering: We are thinking this approach because transit lines are not circular and this accounts for that. We predict that core points will be closer to sporting venues. TBD on how we will estimate delays. 
 
 ## Data Visualization
 TBD
