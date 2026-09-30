@@ -7,12 +7,13 @@ Major sporting events at high capacity arenas in Boston (TD Garden for the Bruin
 ## Timeline
 | Weeks | Task | Milestone |
 |-------|------|-----------|
-| 1-2 | Data Collection | Complete our Datasets |
-| 3-4 | tbd | tbd |
-| 5-6 | tbd | tbd |
-| 7-8 | tbd | tbd |
+| 1-2 | Data Collection | Clean and QA datasets for correctness. Variables to scrape data for include: weather, day of week, concerts, sporting events, transit/bluebike data. |
+| 3-4 | Clustering | Have our 1st check in. Complete clustering of stations (most/least/partially) affected by sporting events. |
+| 5-6 | Data visualization/model training | tbd |
+| 7-8 | Create demo/Final Report/Presentation | Create user-friendly interface (PowerBI or Streamlit) |
 
 ## Goal(s)
+Our project goals are to identify transit stations and areas most affected by sporting events in Boston and estimate delays and demand for Boston public transit (MBTA)/bluebikes caused by game day congestion. 
 
 ## Data Collection
 Just links for now, need to add more here
@@ -21,7 +22,7 @@ Just links for now, need to add more here
 * [Weather](https://www.weather.gov/wrh/climate?wfo=box)
 
 ## Data Modeling
-TBD
+Density-Based Clustering: We are thinking this approach because transit lines are not circular and this accounts for that. We predict that core points will be closer to sporting venues. TBD on how we will estimate delays.
 
 ## Data Visualization
 TBD
