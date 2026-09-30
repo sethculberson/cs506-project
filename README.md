@@ -8,8 +8,8 @@ Major sporting events at high capacity arenas in Boston (TD Garden for the Bruin
 | Weeks | Task | Milestone |
 |-------|------|-----------|
 | 1-2 | Data Collection | Clean and QA datasets for correctness. Variables to scrape data for include: weather, day of week, concerts, sporting events, transit/bluebike data. |
-| 3-4 | Clustering | Have our 1st check in. Complete clustering of stations (most/least/partially) affected by sporting events. |
-| 5-6 | Data visualization/model training | tbd |
+| 3-4 | Clustering | Have our first check in. Complete clustering of stations (most/least/partially) affected by sporting events. |
+| 5-6 | Data visualization/model training | Have our second check in. Complete training for a model to estimate delay times for bluebikes/transit stations if a sporting event is going on. Prepare visualizations demonstrating effect of games on transit and which stations are most affected. |
 | 7-8 | Create demo/Final Report/Presentation | Create user-friendly interface (PowerBI or Streamlit) |
 
 ## Goal(s)
