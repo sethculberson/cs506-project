@@ -1,0 +1,1 @@
+Please clarify your scope (all of MBTA and Bluebikes, or just the Green Line) and add links to your datasets. Also explain how you will measure delays and compare game days to normal days. Finally, try to fill in the TBD sections so your plan for modeling, visualization, and testing is clearer.
